@@ -63,7 +63,7 @@ r = a (1 - e \cdot \cos(E))
 $$
 
 Heliocentric ecliptic rectangular coordinates ($x_{hel}, y_{hel}, z_{hel}$)
-## Why rectangular coordinates? becasuse i dont like polar or spherical : )
+# Why rectangular coordinates? becasuse i dont like polar or spherical : )
  
 The planet's position relative to the Sun, aligned with the Ecliptic plane. This often involves a series of rotations using the Argument of Perihelion ($\omega$), Inclination ($I$), and Longitude of the Ascending Node ($\Omega$):
 
