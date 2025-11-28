@@ -12,9 +12,6 @@ All astronomical calculations require converting civil time into uniform, measur
 
 count of days since noon on January 1, 4713 BC.
 
-$$
-JD = D + \lfloor \frac{153M' + 2}{5} \rfloor + 365Y' + \lfloor \frac{Y'}{4} \rfloor - \lfloor \frac{Y'}{100} \rfloor + \lfloor \frac{Y'}{400} \rfloor - 32045
-$$
 
 
 
@@ -31,9 +28,7 @@ $$
 The planet's position relative to the Sun
 
 Each Keplerian element (e.g., Semi-major axis $a$, Eccentricity $e$, etc.) is modeled as a polynomial function of $T$:
-$$
-\text{Element} = \text{Element}_0 + \text{Element}_1 T + \text{Element}_2 T^2 + \dots
-$$
+
 
 
 #### mean anomaly
